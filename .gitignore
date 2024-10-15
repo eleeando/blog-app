@@ -26,6 +26,8 @@ target/
 Thumbs.db
 ehthumbs.db
 
+#env
+.env
 # Logs
 *.log
 
